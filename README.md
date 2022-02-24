@@ -8,3 +8,4 @@ git init
 git and README.md
 echo # alx -pre _course
 alx is best
+alx is best scholl
