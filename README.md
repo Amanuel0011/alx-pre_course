@@ -10,3 +10,4 @@ echo # alx -pre _course
 alx is best
 alx is best scholl
 it is done
+alx
